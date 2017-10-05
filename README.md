@@ -1,2 +1,2 @@
 # myJavaSe_notes
-JavaSeNotes
+I am sharing my javase notes in there.
